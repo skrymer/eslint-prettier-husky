@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+Example using Prettier for automatic code styling and ESLint for static code analys using Husky to run both as part of a pre-commit hook.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+* Prettier https://prettier.io/
+* ESLint  https://eslint.org/
+* Husky https://github.com/typicode/husky
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+See this blog post for more info https://skrymerdev.wordpress.com/2022/07/03/prettier-eslint-on-pre-commit-with-husky/
